@@ -1,2 +1,3 @@
 valheim-map.world^
 noip.com^
+dice.com^

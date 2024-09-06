@@ -5,3 +5,4 @@ sunnyside.shop^
 fubo.tv^
 moego.pet^
 technical.city^
+vpn.net^

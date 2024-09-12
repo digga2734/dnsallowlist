@@ -10,3 +10,4 @@ nordvpn.com^
 searchy.live^
 cactus-search.com^
 wix.com^
+weatherapi.com^

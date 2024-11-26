@@ -20,4 +20,4 @@ vpnunlimited.com^
 hims.com^
 square.site^
 youtube.com^
-primeopinion.com^
+app.primeopinion.com^

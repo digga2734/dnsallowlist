@@ -21,3 +21,4 @@ hims.com^
 square.site^
 youtube.com^
 app.primeopinion.com^
+tailscale.com^

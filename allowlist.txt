@@ -22,3 +22,6 @@ square.site^
 youtube.com^
 app.primeopinion.com^
 tailscale.com^
+tv.google^
+googletv.com^
+tv.google.com^

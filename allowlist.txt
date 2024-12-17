@@ -27,3 +27,7 @@ googletv.com^
 tv.google.com^
 dataannotation.tech^
 paramountplus.com^
+cbsi.com^
+cbsivideo.com^
+cbsistatic.com^
+cbsimg.net^

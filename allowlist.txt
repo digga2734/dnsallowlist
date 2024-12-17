@@ -31,3 +31,13 @@ cbsi.com^
 cbsivideo.com^
 cbsistatic.com^
 cbsimg.net^
+cbsaavideo.com^
+c.amazon-adsystem.com^
+tv.rlcdn.com^
+masdk.googleapis.com^
+bam.nr-data.net^
+js.appboycdn.com^
+sdk.iad-03.braze.com^
+cdn.cookielaw.org^
+js-agent.newrelic.com^
+lnks.gd^

@@ -26,3 +26,4 @@ tv.google^
 googletv.com^
 tv.google.com^
 dataannotation.tech^
+paramountplus.com^

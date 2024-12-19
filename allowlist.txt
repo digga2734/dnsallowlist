@@ -42,3 +42,5 @@ cdn.cookielaw.org^
 js-agent.newrelic.com^
 lnks.gd^
 saa.paramountplus.com^
+vod62c350g.as.ns1.cbsivideo.com^
+vod-gcs-cedexis.cbsaavideo.com^

@@ -44,3 +44,4 @@ lnks.gd^
 saa.paramountplus.com^
 vod62c350g.as.ns1.cbsivideo.com^
 vod-gcs-cedexis.cbsaavideo.com^
+cbsi.live.ott.irdeto.com^

@@ -41,3 +41,4 @@ sdk.iad-03.braze.com^
 cdn.cookielaw.org^
 js-agent.newrelic.com^
 lnks.gd^
+saa.paramountplus.com^

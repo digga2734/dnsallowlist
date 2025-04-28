@@ -48,3 +48,4 @@ cbsi.live.ott.irdeto.com^
 cbs.hb-api.omtrdc.net^
 gotinder.com^
 leaguelineup.com^
+payhip.com^

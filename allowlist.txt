@@ -57,3 +57,4 @@ massgrave.dev^
 coursera.support^
 coursera.help^
 cloudskillsboost.google^
+protonvpn.com^

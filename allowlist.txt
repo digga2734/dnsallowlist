@@ -60,3 +60,4 @@ cloudskillsboost.google^
 protonvpn.com^
 espn.com^
 nordvpn.com^
+nordaccount.com^

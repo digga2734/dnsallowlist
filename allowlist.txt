@@ -68,3 +68,4 @@ lawfareblog.com^
 intuit.com^
 bettervoice.store^
 kenklippenstein.com^
+vanilla-extract.style^
